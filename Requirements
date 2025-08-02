@@ -1,0 +1,5 @@
+🖥️ Requirements
+✅ Windows OS (tested on Windows 10/11)
+✅ C++17 compatible compiler (e.g., MSVC / MinGW)
+✅ Internet connection for download/ping features
+✅ PowerShell installed (default on Windows)
